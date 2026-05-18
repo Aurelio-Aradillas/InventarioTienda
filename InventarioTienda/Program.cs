@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Security.Authentication;
 
 List<Producto> inventario = new List<Producto>(); // Lista para almacenar los productos en el inventario
 bool salir = false;
